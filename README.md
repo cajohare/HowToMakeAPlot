@@ -39,18 +39,31 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 # Image gallery
 
 [<img align="right" width="300" src="plots/plots_png/Charges.png">](code/Charges.ipynb)
-<!-- [<img align="right" width="300" src="plots/plots_png/Colormaps_Cyclic.png">](code/Charges.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Colormaps_Sequential.png">](code/Charges.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Colormaps_Diverging.png">](code/Charges.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Histograms_Good_withKDE.png">](code/Histograms.ipynb)
-[<img align="right" width="300" src="plots/plots_png/MathematicalPlot_Good.png">](code/MathematicalPlots.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Table.png">](code/TablesVersusFigures.ipynb)
-[<img align="right" width="300" src="plots/plots_png/VisualClarity_Good.png">](code/VisualClarity.ipynb)
-[<img align="right" width="300" src="plots/plots_png/VisualClarity_Good.png">](code/VisualClarity.ipynb)
-[<img align="right" width="300" src="plots/plots_png/ExclusionLimits_Good.png">](code/ExclusionLimits.ipynb)
-[<img align="right" width="300" src="plots/plots_png/DMLandscape_Palatino.png">](code/DarkMatterLandscape.ipynb)
-[<img align="right" width="300" src="plots/plots_png/BoringPlot1_Good.png">](code/BoringPlots.ipynb)
-[<img align="right" width="300" src="plots/plots_png/BoringPlot2_Good.png">](code/BoringPlots.ipynb)
-[<img align="right" width="300" src="plots/plots_png/BoringPlot3_Good.png">](code/BoringPlots.ipynb) -->
+
+[<img align="right" src="plots/plots_png/Colormaps_Cyclic.png">](code/Charges.ipynb)
+
+[<img align="right" src="plots/plots_png/Colormaps_Sequential.png">](code/Charges.ipynb)
+
+[<img align="right" src="plots/plots_png/Colormaps_Diverging.png">](code/Charges.ipynb)
+
+[<img align="right" src="plots/plots_png/Histograms_Good_withKDE.png">](code/Histograms.ipynb)
+
+[<img align="right" src="plots/plots_png/MathematicalPlot_Good.png">](code/MathematicalPlots.ipynb)
+
+[<img align="right" src="plots/plots_png/Table.png">](code/TablesVersusFigures.ipynb)
+
+[<img align="right" src="plots/plots_png/VisualClarity_Good.png">](code/VisualClarity.ipynb)
+
+[<img align="right" src="plots/plots_png/VisualClarity_Good.png">](code/VisualClarity.ipynb)
+
+[<img align="right" src="plots/plots_png/ExclusionLimits_Good.png">](code/ExclusionLimits.ipynb)
+
+[<img align="right" src="plots/plots_png/DMLandscape_Palatino.png">](code/DarkMatterLandscape.ipynb)
+
+[<img align="right" src="plots/plots_png/BoringPlot1_Good.png">](code/BoringPlots.ipynb)
+
+[<img align="right" src="plots/plots_png/BoringPlot2_Good.png">](code/BoringPlots.ipynb)
+
+[<img align="right" src="plots/plots_png/BoringPlot3_Good.png">](code/BoringPlots.ipynb)
 
 ---
