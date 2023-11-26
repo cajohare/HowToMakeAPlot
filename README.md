@@ -32,9 +32,9 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 ---
 
  # Style sheets
-* [code/sty.mplstyle](ode/sty.mplstyle) My preferred matplotlib style sheet (Palatino font)
-* [code/sty2.mplstyle](ode/sty2.mplstyle) My preferred matplotlib style sheet (CM font)
-* [code/sty3.mplstyle](ode/sty3.mplstyle) My preferred matplotlib style sheet (Sans-serif font)
+* [code/sty.mplstyle](code/sty.mplstyle) My preferred matplotlib style sheet (Palatino font)
+* [code/sty2.mplstyle](code/sty2.mplstyle) My preferred matplotlib style sheet (CM font)
+* [code/sty3.mplstyle](code/sty3.mplstyle) My preferred matplotlib style sheet (Sans-serif font)
 
 # Image gallery
 
@@ -65,10 +65,6 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 ---
 
 [<img align="right" src="plots/plots_png/Table.png">](code/TablesVersusFigures.ipynb)
-
----
-
-[<img align="right" src="plots/plots_png/VisualClarity_Good.png">](code/VisualClarity.ipynb)
 
 ---
 
