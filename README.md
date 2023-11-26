@@ -60,7 +60,7 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 
 ---
 
-[<img align="right" src="plots/plots_png/MathematicalPlot_Good.png">](code/MathematicalPlots.ipynb)
+[<img align="right" src="plots/plots_png/MathematicalPlot_Good.png">](code/MathematicalPlot.ipynb)
 
 ---
 
@@ -89,5 +89,9 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 ---
 
 [<img align="right" src="plots/plots_png/BoringPlot3_Good.png">](code/BoringPlots.ipynb)
+
+---
+
+[<img align="right" src="slides/PVAs.png">](slides)
 
 ---
