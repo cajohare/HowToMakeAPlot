@@ -42,7 +42,9 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 
 [<img align="right" src="plots/plots_png/Charges.png">](code/Charges.ipynb)
 
----
+### &nbsp;
+### &nbsp;
+### &nbsp;
 
 [<img align="right" src="plots/plots_png/Colormaps_Cyclic.png">](code/Charges.ipynb)
 
