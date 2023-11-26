@@ -1,6 +1,6 @@
 # How to make a plot
 
-This is a repository containing code that I wrote for a lecture given at the 2023 Annual Meeting of the Centre of Excellence for Dark Matter Particle Physics on the subject of how best to make effective figures for papers and talks in physics.
+This is a repository containing code that I wrote for a lecture given at the [*2023 Annual Meeting of the Centre of Excellence for Dark Matter Particle Physics*](https://darkmatteraustralia.atlassian.net/wiki/spaces/CDMPublic/pages/1584562177/2023+CDM+Annual+Workshop+-+Collaboratively+striving+for+success) on the subject of how best to make effective figures for papers and talks in physics.
 
 The repository focuses around specific examples of how to improve plots using Matplotlib. Click on any of the examples below to go to a jupyter notebook, or browse some in the /code folder. Most of the examples are made up, however they are inspired by the types of plots that people make in particle physics.
 
@@ -39,8 +39,7 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 # Image gallery
 
 [<img align="right" width="300" src="plots/plots_png/Charges.png">](code/Charges.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Colormaps_Cyclic.png">](code/Charges.ipynb)
-[<img align="right" width="300" src="plots/plots_png/Colormaps_Sequential.png">](code/Charges.ipynb)
+<!-- [<img align="right" width="300" src="plots/plots_png/Colormaps_Cyclic.png">](code/Charges.ipynb)
 [<img align="right" width="300" src="plots/plots_png/Colormaps_Sequential.png">](code/Charges.ipynb)
 [<img align="right" width="300" src="plots/plots_png/Colormaps_Diverging.png">](code/Charges.ipynb)
 [<img align="right" width="300" src="plots/plots_png/Histograms_Good_withKDE.png">](code/Histograms.ipynb)
@@ -52,6 +51,6 @@ Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or sp
 [<img align="right" width="300" src="plots/plots_png/DMLandscape_Palatino.png">](code/DarkMatterLandscape.ipynb)
 [<img align="right" width="300" src="plots/plots_png/BoringPlot1_Good.png">](code/BoringPlots.ipynb)
 [<img align="right" width="300" src="plots/plots_png/BoringPlot2_Good.png">](code/BoringPlots.ipynb)
-[<img align="right" width="300" src="plots/plots_png/BoringPlot3_Good.png">](code/BoringPlots.ipynb)
+[<img align="right" width="300" src="plots/plots_png/BoringPlot3_Good.png">](code/BoringPlots.ipynb) -->
 
 ---
