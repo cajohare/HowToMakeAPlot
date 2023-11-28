@@ -4,7 +4,7 @@ This is a repository containing code that I wrote for a lecture given at the [*2
 
 The repository focuses around specific examples of how to improve plots using Matplotlib. Click on any of the examples below to go to a jupyter notebook, or browse some in the /code folder. Most of the examples are made up, however they are inspired by the types of plots that people make in particle physics.
 
-The slides to accompany this lecture can be found [here](slides) in both pdf and keynote formats. Reading them is probably important to get the context behind why I made this repository. In the talk I went through some motivation behind making good plots, give some general design advice and highlight some common pitfalls, before going through a few specific tips for making good-looking figures using Matplotlib.
+The slides to accompany this lecture can be found [here](slides) in both pdf and keynote formats. Reading them is probably important to get the context behind why I made this repository. In the talk I went through some motivation behind making good plots, gave some general design advice and highlighted some common pitfalls, before going through a few specific tips for making good-looking figures using Matplotlib.
 
 Please contact me at ciaran.ohare@sydney.edu.au if you have any questions, or spot any errors.
 
