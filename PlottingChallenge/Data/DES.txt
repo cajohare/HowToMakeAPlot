@@ -1,6 +1,7 @@
 # DES cosmic shear Y1
 # k in units of h/Mpc
 # Power in units of (Mpc/h)^3
+# IMPORTANT: klow and khigh are the locations of the upper and lower edges of the 60% quantile, NOT the error on k  
 # k    klow     khigh   P   Plow    Phigh
 0.22693392242369800	0.1312164834281600	0.38212462805874900	1581.076485103590	1444.3946258277100	1762.273450549610
 0.387264543967058	0.2736133798119840	0.5782144953330160	553.9307791537550	515.2783373568980	606.3487869828010

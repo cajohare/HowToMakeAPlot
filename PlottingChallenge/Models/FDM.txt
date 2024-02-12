@@ -1,4 +1,4 @@
-# Matter power spectrum for fuzzy dark matter
+# Matter power spectrum for fuzzy dark matter with DM mass of 10^-22 eV
 # k [h/Mpc]	P(k) [Mpc/h]^-3
 1.000000000000000021e-03 3.978150357455119774e+03
 1.018610170155975336e-03 4.046657255209852792e+03

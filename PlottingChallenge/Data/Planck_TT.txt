@@ -2,7 +2,7 @@
 # from https://github.com/marius311/mpk_compilation
 # k in units of h/Mpc
 # Power in units of (Mpc/h)^3
-# IMPORTANT: klow and khigh are the locations of the bin edges NOT the error on k  
+# IMPORTANT: klow and khigh are the locations of the upper and lower edges of the 60% quantile, NOT the error on k  
 # k    klow     khigh   P   Plow    Phigh
 0.000277293722978469	0.00018082288119106200	0.0004309524959759350	245.5004858976520	0.8097984913608070	2871.5420692029200
 0.00047320394424633000	0.00034800547256231200	0.0007065283514187630	1929.0359179989800	663.7270671927460	3259.0348551236500
